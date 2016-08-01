@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">RandomSelect</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="eleves">
+        <item>BA</item>
+        <item>BAÏRA</item>
+        <item>BAUD</item>
+        <item>BERTHIER</item>
+        <item>BONGO MUBANGU</item>
+        <item>BOUCHAUDON</item>
+        <item>BRETON</item>
+        <item>BRUNAUD</item>
+        <item>CANIVET</item>
+        <item>CARLOTTI</item>
+        <item>CAVERZASIO</item>
+        <item>CHARBONNIER</item>
+        <item>CHARROUF</item>
+        <item>COT</item>
+        <item>DELAFOSSE</item>
+        <item>DUBOURDIEU</item>
+        <item>ESCOURROU</item>
+        <item>FAUCHEREAU</item>
+        <item>FRADET</item>
+        <item>GERARD</item>
+        <item>GOURMANDIE</item>
+        <item>GUILLOUX</item>
+        <item>HAFIANE</item>
+        <item>HERBIN</item>
+        <item>HOMAND</item>
+        <item>INGRASSIA</item>
+        <item>KHIDER</item>
+        <item>LESNÉ</item>
+        <item>LOPES</item>
+        <item>MAICEL</item>
+        <item>MARCELLIN</item>
+        <item>MARINELLI</item>
+        <item>NGOLU</item>
+        <item>OVAZZA</item>
+        <item>PAPAIL</item>
+        <item>POUX</item>
+        <item>RETIF</item>
+        <item>RETROU</item>
+        <item>REZEL</item>
+        <item>RITOUX</item>
+        <item>RODRIGUEZ</item>
+        <item>SCHIANO</item>
+        <item>SERRANO</item>
+        <item>THEBAUT</item>
+        <item>VERHAEGHE</item>
+        <item>VOGEL</item>
+    </string-array>
+    <string name="title_activity_nombre">Nombre</string>
+</resources>
