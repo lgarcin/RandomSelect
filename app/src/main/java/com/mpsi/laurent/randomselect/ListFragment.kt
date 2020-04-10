@@ -26,7 +26,7 @@ class ListFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
         val adapter = EpreuveAdapter()
         recycler_view.adapter = adapter
-        epreuveViewModel.getAll()?.observe(this, Observer {
+        epreuveViewModel.getAll()?.observe(viewLifecycleOwner, Observer {
             adapter.setItems(it)
         })
     }
